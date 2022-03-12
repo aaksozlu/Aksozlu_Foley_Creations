@@ -1,6 +1,22 @@
 ## Welcome to the Aksozlu-Foley Gallery
 
+## Sentence about Human Passion
+
 ## Images
+
+### Project 1:
+If Pablo Picasso were alive today, how would he portray the modern world?
+
+![Picasso painting of a modern computer RunwayML](https://user-images.githubusercontent.com/95362392/158035223-c43f1a4e-c475-44ee-b523-90f5e86b652a.jpeg)
+
+Description on how this painting relates to human passion aka social media (maybe instead a photo of twitter posts).
+
+
+
+
+
+
+## Project 2:
 Here is our first attempt to bring the life of an oryx in a Qatari desert to you through a depth field view...
 ![oryx](https://user-images.githubusercontent.com/36861611/156750045-995133fd-e362-4ad0-bac8-644fcbd24961.png)
 
