@@ -10,6 +10,7 @@ If Pablo Picasso were alive today, how would he portray the modern world?
 ![Picasso painting of a modern computer RunwayML](https://user-images.githubusercontent.com/95362392/158035223-c43f1a4e-c475-44ee-b523-90f5e86b652a.jpeg)
 
 Description on how this painting relates to human passion aka social media (maybe instead a photo of twitter posts).
+This is to do with the dark side of passion (can explain perhaps the image search is explicit images - picasso's blue phase?) - the red lighting around the computer representing joy in the activity of being immersed in ones computer, but the blue-ish hue of the search results indicates an unhealthy addiction. It is interesting that the model trained on picasso's images registered the negative vibe of the set-up, where a person would not perceive this. Picasso invented a new style each time he fell in love with a woman - Arthur Danto. The fact that it came out so dark and depressing is interesting - perhaps a reflection on modern day passion in comparison to the Picasso era of traditional romance. Picasso was obviosuly a very distressed person and his paintings are a window into that mindset so putting a very normal everyday image through this model, we can view this everyday image through the lense of depression and this is the result. 
 
 
 
