@@ -38,34 +38,10 @@ The legend of Atlantis... if we told a computer it existed, how would it imagine
 
 Something about how artificial intelligence allows us to dream up scenarios that we could never truly visualise or even fully understand the details of how this would work in our own minds. Here we have combined an image of a school of fish with one of the world's busiest and most vibrant cities - Tokyo. The result - an underwater metropolis.
 
-### Markdown
+## Project 4:
+Human Ingenuity
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![electric-tools-evolution_no_arrows](https://user-images.githubusercontent.com/36861611/164658851-0ceeb01a-d8c9-4497-976e-a1ea2ddf3fe1.jpg)
 
-```markdown
-Syntax highlighted code block
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RLRA5DRA5YMBQ)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaksozlu/INM716_Aksozlu_Foley/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
